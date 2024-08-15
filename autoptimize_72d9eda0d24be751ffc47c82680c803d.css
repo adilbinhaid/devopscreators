@@ -1851,7 +1851,7 @@ table.ppress-details-table {
     font-family: "Material Icons";
     font-style: normal;
     font-weight: 400;
-    src: local("Material Icons"), local("MaterialIcons-Regular"), url(//MaterialIcons-Regular.woff2)format("woff2"), url(//appinventiv.com/wp-content/plugins/wp-user-avatar/assets/css/./material-icons/MaterialIcons-Regular.woff)format("woff")
+    src: local("Material Icons"), local("MaterialIcons-Regular"), url(//MaterialIcons-Regular.woff2)format("woff2"), url(//main/MaterialIcons-Regular.woff)format("woff")
 }
 
 #profilepress-myaccount-wrapper .ppmyac-icons,
@@ -2072,7 +2072,7 @@ table.ppress-details-table {
 }
 
 .pp-form-wrapper select {
-    background-image: url(//appinventiv.com/wp-content/plugins/wp-user-avatar/assets/css/../images/frontend/arrow-down.png) !important;
+    background-image: url(//main/arrow-down.png) !important;
     background-position: right 20px center !important;
     background-repeat: no-repeat !important;
     background-size: 10px auto !important;
@@ -2217,7 +2217,7 @@ a.pp-button-social-login span.ppsc-text {
 }
 
 a.pp-button-social-login .ppsc-google {
-    background-image: url(//appinventiv.com/wp-content/plugins/wp-user-avatar/assets/css/../images/social-login/google.svg)
+    background-image: url(//main/google.svg)
 }
 
 a.pp-button-social-login.pp-button-social-login-google {
@@ -2271,31 +2271,31 @@ a.pp-button-social-login.pp-button-social-login-github {
 }
 
 a.pp-button-social-login .ppsc-vk {
-    background-image: url(//appinventiv.com/wp-content/plugins/wp-user-avatar/assets/css/../images/social-login/vk-fa.svg)
+    background-image: url(//main/vk-fa.svg)
 }
 
 a.pp-button-social-login .ppsc-microsoft {
-    background-image: url(//appinventiv.com/wp-content/plugins/wp-user-avatar/assets/css/../images/social-login/microsoft.svg)
+    background-image: url(//main/microsoft.svg)
 }
 
 a.pp-button-social-login .ppsc-amazon {
-    background-image: url(//appinventiv.com/wp-content/plugins/wp-user-avatar/assets/css/../images/social-login/amazon.svg)
+    background-image: url(//main/amazon.svg)
 }
 
 a.pp-button-social-login .ppsc-yahoo {
-    background-image: url(//appinventiv.com/wp-content/plugins/wp-user-avatar/assets/css/../images/social-login/yahoo.svg)
+    background-image: url(//main/yahoo.svg)
 }
 
 a.pp-button-social-login .ppsc-wordpresscom {
-    background-image: url(//appinventiv.com/wp-content/plugins/wp-user-avatar/assets/css/../images/social-login/wpcom.svg)
+    background-image: url(//main/wpcom.svg)
 }
 
 a.pp-button-social-login .ppsc-facebook {
-    background-image: url(//appinventiv.com/wp-content/plugins/wp-user-avatar/assets/css/../images/social-login/facebook.svg)
+    background-image: url(//main/facebook.svg)
 }
 
 a.pp-button-social-login .ppsc-twitter {
-    background-image: url(//appinventiv.com/wp-content/plugins/wp-user-avatar/assets/css/../images/social-login/twitter.svg)
+    background-image: url(//main/twitter.svg)
 }
 
 a.pp-button-social-login .ppsc-linkedin {
@@ -5923,7 +5923,7 @@ span.flatpickr-weekday {
     top: 50%;
     margin-left: -40px;
     margin-top: -40px;
-    background: url(//appinventiv.com/wp-content/themes/twentynineteen-child/css/plugins/owl.video.play.png) no-repeat;
+    background: url(//wp-content/themes/twentynineteen-child/css/plugins/owl.video.play.png) no-repeat;
     cursor: pointer;
     z-index: 1;
     -webkit-backface-visibility: hidden;
