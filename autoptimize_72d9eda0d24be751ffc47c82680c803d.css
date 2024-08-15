@@ -8531,8 +8531,8 @@ ul.footer_list {
 
 @font-face {
     font-family: FontAwesome;
-    src: url(//appinventiv.com/wp-content/themes/twentynineteen-child/css/pages/../../fonts/fontawesome-webfont.eot?v=4.7.0);
-    src: url(//appinventiv.com/wp-content/themes/twentynineteen-child/css/pages/../../fonts/fontawesome-webfont.eot?#iefix&v=4.7.0) format("embedded-opentype"), url(//appinventiv.com/wp-content/themes/twentynineteen-child/css/pages/../../fonts/fontawesome-webfont.woff2?v=4.7.0) format("woff2"), url(//appinventiv.com/wp-content/themes/twentynineteen-child/css/pages/../../fonts/fontawesome-webfont.woff?v=4.7.0) format("woff"), url(//appinventiv.com/wp-content/themes/twentynineteen-child/css/pages/../../fonts/fontawesome-webfont.ttf?v=4.7.0) format("truetype"), url(//appinventiv.com/wp-content/themes/twentynineteen-child/css/pages/../../fonts/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular) format("svg");
+    src: url(//main/fontawesome-webfont.eot);
+    src: url(//main/fontawesome-webfont.eot) format("embedded-opentype"), url(//appinventiv.com/wp-content/themes/twentynineteen-child/css/pages/../../fonts/fontawesome-webfont.woff2?v=4.7.0) format("woff2"), url(//appinventiv.com/wp-content/themes/twentynineteen-child/css/pages/../../fonts/fontawesome-webfont.woff?v=4.7.0) format("woff"), url(//appinventiv.com/wp-content/themes/twentynineteen-child/css/pages/../../fonts/fontawesome-webfont.ttf?v=4.7.0) format("truetype"), url(//main/fontawesome-webfont.svg) format("svg");
     font-weight: 400;
     font-style: normal;
     font-display: swap
