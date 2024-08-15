@@ -2299,11 +2299,11 @@ a.pp-button-social-login .ppsc-twitter {
 }
 
 a.pp-button-social-login .ppsc-linkedin {
-    background-image: url(//appinventiv.com/wp-content/plugins/wp-user-avatar/assets/css/../images/social-login/linkedin.svg)
+    background-image: url(//main/linkedin.svg)
 }
 
 a.pp-button-social-login .ppsc-github {
-    background-image: url(//appinventiv.com/wp-content/plugins/wp-user-avatar/assets/css/../images/social-login/github-fa.svg)
+    background-image: url(//main/github-fa.svg)
 }
 
 #profilepress-myaccount-wrapper,
@@ -7058,14 +7058,14 @@ a {
 }
 
 .industry_cta {
-    background: url(//appinventiv.com/wp-content/themes/twentynineteen-child/css/pages/../../new-images/partnerwithus.webp) no-repeat;
+    background: url(//main/partnerwithus.webp) no-repeat;
     background-size: contain;
     padding: 50px 30px;
     position: relative
 }
 
 .solution_cta {
-    background: url(//appinventiv.com/wp-content/themes/twentynineteen-child/css/pages/../../new-images/appinventiv-mask-new.svg) no-repeat;
+    background: url(//main/appinventiv-mask-new.svg) no-repeat;
     background-color: #1b1b1b;
     width: 450px;
     border-radius: 8px
@@ -7276,7 +7276,7 @@ a {
 }
 
 .our_services_cta {
-    background: #1163fb url(//appinventiv.com/wp-content/themes/twentynineteen-child/css/pages/../../new-images/our-services-cta.webp) no-repeat;
+    background: #1163fb url(//main/our-services-cta.webp) no-repeat;
     background-position: center;
     background-size: cover;
     border-radius: 8px;
@@ -7350,7 +7350,7 @@ a {
     content: "";
     top: 45px;
     right: 0;
-    background: url(//appinventiv.com/wp-content/themes/twentynineteen-child/css/pages/../../new-images/tech-card-arrow.svg) no-repeat;
+    background: url(//main/tech-card-arrow.svg) no-repeat;
     width: 10px;
     height: 16px;
     transition: all 1s cubic-bezier(.19, 1, .22, 1)
@@ -7680,7 +7680,7 @@ a {
 }
 
 .app_form_panel {
-    background: url(//appinventiv.com/wp-content/themes/twentynineteen-child/css/pages/../../new-images/talk-to-us-banner.webp) no-repeat;
+    background: url(//main/talk-to-us-banner.webp) no-repeat;
     background-size: cover;
     position: relative;
     padding: 6rem 0
@@ -7918,7 +7918,7 @@ a {
 }
 
 .select-grid .selectric .button {
-    background: url(//appinventiv.com/wp-content/themes/twentynineteen-child/css/pages/../../new-images/select-arrow-wht.svg) no-repeat !important;
+    background: url(//main/select-arrow-wht.svg) no-repeat !important;
     right: -20px !important;
     top: 12px
 }
@@ -8170,7 +8170,7 @@ a {
 }
 
 .headq__wrapper {
-    background: url(//appinventiv.com/wp-content/themes/twentynineteen-child/css/pages/../../new-images/footer-hq-bg.webp) no-repeat;
+    background: url(//main/footer-hq-bg.webp) no-repeat;
     background-size: cover;
     background-position: center;
     border-top: 6px solid #1163fb;
@@ -8532,7 +8532,7 @@ ul.footer_list {
 @font-face {
     font-family: FontAwesome;
     src: url(//main/fontawesome-webfont.eot);
-    src: url(//main/fontawesome-webfont.eot) format("embedded-opentype"), url(//appinventiv.com/wp-content/themes/twentynineteen-child/css/pages/../../fonts/fontawesome-webfont.woff2?v=4.7.0) format("woff2"), url(//appinventiv.com/wp-content/themes/twentynineteen-child/css/pages/../../fonts/fontawesome-webfont.woff?v=4.7.0) format("woff"), url(//appinventiv.com/wp-content/themes/twentynineteen-child/css/pages/../../fonts/fontawesome-webfont.ttf?v=4.7.0) format("truetype"), url(//main/fontawesome-webfont.svg) format("svg");
+    src: url(//main/fontawesome-webfont.eot) format("embedded-opentype"), url(//main/fontawesome-webfont.woff2) format("woff2"), url(//main/fontawesome-webfont.woff) format("woff"), url(//main/fontawesome-webfont.ttf) format("truetype"), url(//main/fontawesome-webfont.svg) format("svg");
     font-weight: 400;
     font-style: normal;
     font-display: swap
@@ -8697,7 +8697,7 @@ header .appi-blue-blk-logo {
 .app_form_left {
     width: 400px;
     padding: 50px 50px 20px;
-    background-image: url(//appinventiv.com/wp-content/themes/twentynineteen-child/css/pages/../../new-images/popup_bg_new.webp);
+    background-image: url(//wp-content/themes/twentynineteen-child/css/pages/../../new-images/popup_bg_new.webp);
     background-repeat: no-repeat;
     background-size: cover;
     border-top-left-radius: 15px;
@@ -10756,7 +10756,7 @@ input[type=number] {
 
     .appinventiv_img_mast {
         transform-origin: 49.4% center;
-        background: url(//appinventiv.com/wp-content/themes/twentynineteen-child/css/pages/../../new-images/talk-to-us-banner.webp) no-repeat;
+        background: url(//main/talk-to-us-banner.webp) no-repeat;
         height: 100vh
     }
 
